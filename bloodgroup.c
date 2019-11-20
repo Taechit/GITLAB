@@ -5,8 +5,8 @@ void main()
   int i;
   do
   {
-    printf("Where is My Name? ");
-    printf("Where is your Name? ");
+    printf("Where is My SurName? ");
+    printf("Where is your SurName? ");
     scanf("%s", Name);
     do
     {
